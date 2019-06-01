@@ -1,0 +1,10 @@
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\bin\Debug\Xsi0.exe.config
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\bin\Debug\Xsi0.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\bin\Debug\Xsi0.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\obj\Debug\Xsi0.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\obj\Debug\Xsi0.Properties.Resources.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\obj\Debug\Xsi0.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\obj\Debug\Xsi0.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\obj\Debug\Xsi0.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\obj\Debug\Xsi0.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Xsi0\Xsi0\obj\Debug\Xsi0.Xsi0.resources
